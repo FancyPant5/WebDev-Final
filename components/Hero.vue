@@ -1,7 +1,7 @@
 <template>
     <section class="container mx-auto px-8 py-36 text-center sm:px-12">
   <h1
-    class="mb-12 text-5xl font-extrabold leading-tight dark:text-slate-50 sm:text-6xl"
+    class="mb-12 text-5xl font-extrabold leading-tight dark:text-black-50 sm:text-6xl"
   >
     Get funding for your business growth
   </h1>
@@ -14,7 +14,7 @@
     class="mx-auto flex w-fit flex-col space-y-4 sm:flex-row sm:space-y-0 sm:space-x-4"
   >
     <button
-      class="rounded-md border-0 bg-violet-500 px-12 py-2 text-base text-white shadow-lg shadow-violet-300 transition hover:bg-violet-600 hover:shadow-violet-400 dark:shadow-violet-900"
+      class="rounded-md border-0 bg-dodger-blue-500 px-12 py-2 text-base text-white shadow-lg shadow-dodger-blue-300 transition hover:bg-dodger-blue-600 hover:shadow-dodger-blue-400 dark:shadow-dodger-blue-900"
     >
       Register now
     </button>
