@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="text-xl">
         Bonjour from pages file
     </div>
     
