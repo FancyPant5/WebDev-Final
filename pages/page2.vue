@@ -46,8 +46,8 @@
 >
   <img
     alt="Security"
-    class="mb-10 h-24 w-full pr-16 pl-16 dark:contrast-200 dark:invert sm:mb-0 sm:h-fit sm:w-1/2 sm:pl-24 sm:pr-0"
-    src="/illustrations/undraw_fingerprint_re_uf3f.svg"
+    class="mb-10 h-24 w-full pr-16 pl-16 sm:mb-0 sm:h-80"
+    src="/assets/Class.jpg"
   />
   <div class="mr-4 w-full text-center sm:w-1/2 sm:text-left">
     <h2
