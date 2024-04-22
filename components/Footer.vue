@@ -7,16 +7,15 @@
       class="flex w-full flex-col space-y-4 text-center md:w-2/5 md:text-left"
     >
       <div class="w-full text-lg font-extrabold md:w-fit md:text-left">
-        <span class="text-violet-500">Unique</span>
-        <span class="dark:text-slate-400">Fund</span>
+        <span class="text-dodger-blue-500">IT</span>
+        <span class="dark:text-slate-400">Helpdesk</span>
       </div>
       <p class="text-sm text-slate-600">
-        UniqueFund provides access to fast and reliable financing solutions for
-        SMEs.
+        Our helpdesk kiosk provides easy solutions for difficult information technology related issues. For more information regarding technology, visit eagle@northwestu.edu.
       </p>
     </div>
     <div class="w-full text-center text-slate-600 md:w-1/5 md:text-left">
-      <div class="text-sm font-semibold">Company</div>
+      <div class="text-sm font-semibold">IT Helpdesk</div>
       <ul class="text-sm">
         <li class="pt-3">
           <a
@@ -70,7 +69,7 @@
             rel="noopener noreferrer"
             target="_blank"
           >
-            Business Line of Credit
+            Classroom Technology
           </a>
         </li>
         <li class="pt-3">
@@ -80,7 +79,7 @@
             rel="noopener noreferrer"
             target="_blank"
           >
-            SBA Loan
+            Office Technology
           </a>
         </li>
         <li class="pt-3">
@@ -90,7 +89,7 @@
             rel="noopener noreferrer"
             target="_blank"
           >
-            Revenue Based Financing
+            Database Architecture
           </a>
         </li>
         <li class="pt-3">
@@ -100,13 +99,13 @@
             rel="noopener noreferrer"
             target="_blank"
           >
-            Invoice Factoring
+            General Inquires
           </a>
         </li>
       </ul>
     </div>
     <div class="w-full text-center text-slate-600 md:w-1/5 md:text-left">
-      <div class="text-sm font-semibold text-slate-600">Partnership</div>
+      <div class="text-sm font-semibold text-slate-600">Partners</div>
       <ul class="text-sm">
         <li class="pt-3">
           <a
@@ -115,7 +114,7 @@
             rel="noopener noreferrer"
             target="_blank"
           >
-            Loan Partner
+            ZiplyFiber
           </a>
         </li>
         <li class="pt-3">
@@ -125,7 +124,7 @@
             rel="noopener noreferrer"
             target="_blank"
           >
-            Affiliate
+            PowerCampus
           </a>
         </li>
         <li class="pt-3">
@@ -135,7 +134,7 @@
             rel="noopener noreferrer"
             target="_blank"
           >
-            Brand Guideline
+            City of Kirkland
           </a>
         </li>
       </ul>
@@ -146,7 +145,7 @@
   >
     ©
     
-    2023
+    2024
     
     Northwest University. All rights reserved.
   </div>
