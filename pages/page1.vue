@@ -7,7 +7,7 @@
   </h1>
   <div class="grid grid-cols-2 gap-4 md:grid-cols-4">
     <div
-      class="flex cursor-pointer flex-col items-center justify-start rounded-lg bg-white py-5 px-6 text-center text-slate-800 shadow-lg shadow-slate-200 transition dark:bg-slate-700 dark:text-slate-200 dark:shadow-slate-700"
+    class="flex cursor-pointer flex-col items-center justify-start rounded-lg bg-slate-50 py-5 px-6 text-center text-slate-800 shadow-slate-200 transition hover:bg-white hover:shadow-lg hover:shadow-slate-200 dark:bg-slate-800 dark:text-slate-200 dark:shadow-slate-700 dark:hover:shadow-slate-800"
     >
       <svg
         preserveAspectRatio="xMidYMid meet"
@@ -22,10 +22,14 @@
           stroke-linecap="round"
           stroke-linejoin="round"
           stroke-width="2"
-          d="M3 8a3 3 0 0 1 3-3h12a3 3 0 0 1 3 3v8a3 3 0 0 1-3 3H6a3 3 0 0 1-3-3zm0 2h18M7 15h.01M11 15h2"
+          d="M12 2C6.477 2 2 6.477 2 12s4.477 10 10 10s10-4.477 10-10S17.523 2 12 2 M4.271 18.346S6.5 15.5 12 15.5s7.73 2.846 7.73 2.846M12 12a3 3 0 1 0 0-6a3 3 0 0 0 0 6"
+          
         ></path>
+        
+          
+        
       </svg>
-      <div class="mt-3 text-sm font-semibold">Business Line of Credit</div>
+      <div class="mt-3 text-sm font-semibold">Login trouble</div>
     </div>
     <div
       class="flex cursor-pointer flex-col items-center justify-start rounded-lg bg-slate-50 py-5 px-6 text-center text-slate-800 shadow-slate-200 transition hover:bg-white hover:shadow-lg hover:shadow-slate-200 dark:bg-slate-800 dark:text-slate-200 dark:shadow-slate-700 dark:hover:shadow-slate-800"
@@ -43,37 +47,40 @@
           stroke-linecap="round"
           stroke-linejoin="round"
           stroke-width="2"
-          d="M3 21h18M3 10h18M5 6l7-3l7 3M4 10v11m16-11v11M8 14v3m4-3v3m4-3v3"
+          d="M15 6V1m-3 23v-9M9 6V1M6 6h12v7a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2z" 
+          
         ></path>
       </svg>
-      <div class="mt-3 text-sm font-semibold">SBA Loan</div>
+      <div class="mt-3 text-sm font-semibold">classroom infrastructure</div>
     </div>
     <div
       class="flex cursor-pointer flex-col items-center justify-start rounded-lg bg-slate-50 py-5 px-6 text-center text-slate-800 shadow-slate-200 transition hover:bg-white hover:shadow-lg hover:shadow-slate-200 dark:bg-slate-800 dark:text-slate-200 dark:shadow-slate-700 dark:hover:shadow-slate-800"
     >
-      <svg
-        preserveAspectRatio="xMidYMid meet"
-        viewBox="0 0 24 24"
+      <svg 
+      preserveAspectRatio="xMidYMid meet"
+      viewBox="0 0 24 24"
         width="1.2em"
         height="1.2em"
         class="h-8 w-8"
-      >
+      xmlns="http://www.w3.org/2000/svg" >
+		<path fill="currentColor" d="M12 2a7 7 0 0 0-7 7v6a7 7 0 0 0 14 0V9a7 7 0 0 0-7-7M7 9a5 5 0 0 1 4-4.9V10H7Zm10 6a5 5 0 0 1-10 0v-3h10Zm0-5h-4V4.1A5 5 0 0 1 17 9Z"></path>
+      
         <g
           fill="none"
           stroke="currentColor"
           stroke-linecap="round"
           stroke-linejoin="round"
           stroke-width="2"
+          
         >
+        
           <path
-            d="M9 5H7a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-2"
+            d=""
           ></path>
-          <path
-            d="M9 5a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2v0a2 2 0 0 1-2 2h-2a2 2 0 0 1-2-2zm5 6h-2.5a1.5 1.5 0 0 0 0 3h1a1.5 1.5 0 0 1 0 3H10m2 0v1m0-8v1"
-          ></path>
+          
         </g>
       </svg>
-      <div class="mt-3 text-sm font-semibold">Revenue Based Financing</div>
+      <div class="mt-3 text-sm font-semibold">Peripheral Replacement</div>
     </div>
     <div
       class="flex cursor-pointer flex-col items-center justify-start rounded-lg bg-slate-50 py-5 px-6 text-center text-slate-800 shadow-slate-200 transition hover:bg-white hover:shadow-lg hover:shadow-slate-200 dark:bg-slate-800 dark:text-slate-200 dark:shadow-slate-700 dark:hover:shadow-slate-800"
@@ -98,7 +105,7 @@
           ></path>
         </g>
       </svg>
-      <div class="mt-3 text-sm font-semibold">Invoice Factoring</div>
+      <div class="mt-3 text-sm font-semibold">Assignment submission</div>
     </div>
   </div>
   <div
@@ -106,12 +113,11 @@
   >
     <div class="text-center md:text-left">
       <div class="text-4xl font-extrabold text-white">
-        Business Line
-        <br />
-        of Credit
+        To report an issue or request help, submit your ticket here!
+        
       </div>
       <div class="mt-2 text-sm text-violet-100">
-        Pay interest only on what you use
+        Your ticket will be entered in the que and sorted based on urgency.
       </div>
       <ul class="mt-6 mb-8 text-sm text-violet-100 md:mb-0">
         <li class="flex items-center justify-center md:justify-start">
@@ -179,7 +185,7 @@
             stroke-linecap="round"
             stroke-linejoin="round"
             stroke-width="2"
-            d="M3 10a7 7 0 1 0 14 0a7 7 0 1 0-14 0m18 11l-6-6"
+            
           ></path>
         </svg>
         Find the best limit
