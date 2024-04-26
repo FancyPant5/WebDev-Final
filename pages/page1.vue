@@ -74,9 +74,7 @@
           
         >
         
-          <path
-            d=""
-          ></path>
+
           
         </g>
       </svg>
@@ -137,7 +135,7 @@
               d="m5 12l5 5L20 7"
             ></path>
           </svg>
-          High credit limit
+          In-depth support
         </li>
         <li class="flex items-center justify-center md:justify-start">
           <svg
@@ -156,7 +154,7 @@
               d="m5 12l5 5L20 7"
             ></path>
           </svg>
-          Fast disbursement, anytime
+          Technicians available 24/7
         </li>
       </ul>
     </div>
@@ -165,7 +163,7 @@
       <input
         class="mb-4 rounded-md px-4 py-3 font-light"
         
-        placeholder="How much do you need?"
+        placeholder="How can we help?"
         type="text"
       />
       <button
@@ -188,7 +186,7 @@
             
           ></path>
         </svg>
-        Find the best limit
+        Submit Ticket
       </button>
     </form>
   </div>

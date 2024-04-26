@@ -106,7 +106,7 @@
       <button
         class="rounded-md border-0 bg-dodger-blue-500 px-5 py-2 text-base text-white shadow-lg shadow-dodger-blue-300 transition hover:bg-dodger-blue-600 hover:shadow-dodger-blue-400 dark:shadow-dodger-blue-900"
       >
-        Open menu
+        About
       </button>
       <button
         class="rounded-md border-0 bg-dodger-blue-500 px-5 py-2 text-base text-white shadow-lg shadow-dodger-blue-300 transition hover:bg-dodger-blue-600 hover:shadow-dodger-blue-400 dark:shadow-dodger-blue-900"
@@ -116,4 +116,6 @@
     </div>
   </div>
 </section>
+
 </template>
+

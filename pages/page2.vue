@@ -3,8 +3,8 @@
   class="container mx-auto flex flex-col items-center px-12 py-28 sm:flex-row"
 >
   <img
-    alt="Security"
-    class="mb-10 h-24 w-full pr-16 pl-16 sm:mb-0 sm:h-80 "
+    alt="productivity"
+    class=" flex bg-center mb-10 h-24 w-full pr-16 pl-16 sm:mb-0 sm:h-80 "
     src="/assets/workingPerson.jpg"
   />
   <div class="mr-4 w-full text-center sm:w-1/2 sm:text-left">
@@ -104,4 +104,18 @@
     </p>
   </div>
 </section>
+
 </template>
+
+<script setup>
+useHead({
+  title: 'About',
+  meta: [
+    { name: 'description', content: 'My amazing site.' }
+  ],
+  bodyAttrs: {
+    class: 'test'
+  },
+  script: [ { innerHTML: 'console.log(\'Hello world\')' } ]
+})
+</script>

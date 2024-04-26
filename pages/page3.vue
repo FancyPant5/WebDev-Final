@@ -1,7 +1,8 @@
 <template>
-    <div class="container flex flex-row py-8 "></div>
+    <section class="container mx-auto px-8 py-28 sm:px-12 ">
+    <div class=" container max-w-md mx-auto "></div>
 
-  <h2 class="container py-9 text-3xl text-center font-extrabold text-dodger-blue-500 mb-10">Frequently Asked Questions</h2>
+  
   <div class=" flex flex-row px-4 py-3 rounded-md border-2 border-dodger-blue-500 overflow-hidden max-w-md mx-auto font-[sans-serif]">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192.904 192.904" width="16px"
           class="fill-gray-600 mr-3 rotate-90">
@@ -11,7 +12,8 @@
         </svg>
         <input type="email" placeholder="Search Something..." class="w-full outline-none bg-transparent text-gray-600 text-sm" />
       </div>
-    <div class="bg-white px-6 py-8 font-[sans-serif]">
+      <h2 class="container py-10 text-3xl text-center font-extrabold text-dodger-blue-500 mb-10">Frequently Asked Questions</h2>
+    <div class="flex flex-row bg-white px-10 font-[sans-serif]">
   <div class="space-y-8 max-w-4xl">
     <div class="flex items-start">
       <div class="flex-shrink-0">
@@ -70,4 +72,5 @@
     </div>
   </div>
 </div>
+    </section>
 </template>
