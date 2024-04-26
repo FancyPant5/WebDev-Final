@@ -29,7 +29,7 @@
                       </div>
                       <a href="#" class="text-sm font-medium text-primary-600 hover:underline dark:text-dodger-blue-500">Forgot password?</a>
                   </div>
-                  <button type="submit" class=" rounded-md border-0 bg-dodger-blue-500 px-10 py-2 text-base justify-center text-white shadow-lg shadow-dodger-blue-300 transition hover:bg-dodger-blue-600 hover:shadow-dodger-blue-400 dark:shadow-dodger-blue-900">Sign in</button>
+                  <button type="submit" class=" rounded-md border-0 bg-dodger-blue-500 px-10 py-2 text-base justify-centertext-white shadow-lg shadow-dodger-blue-300 transition hover:bg-dodger-blue-600 hover:shadow-dodger-blue-400 dark:shadow-dodger-blue-900">Sign in</button>
                   <p class="text-sm font-light text-gray-500 dark:text-gray-400">
                       Don't have an account yet? <a href="#" class="font-medium text-primary-600 hover:underline dark:text-primary-500">Sign up</a>
                   </p>
