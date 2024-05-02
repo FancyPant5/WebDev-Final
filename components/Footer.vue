@@ -20,7 +20,7 @@
         <li class="pt-3">
           <a
             class="underline decoration-transparent underline-offset-4 transition hover:decoration-slate-700"
-            href="#"
+            href="/page2"
             rel="noopener noreferrer"
             target="_blank"
           >
@@ -30,7 +30,7 @@
         <li class="pt-3">
           <a
             class="underline decoration-transparent underline-offset-4 transition hover:decoration-slate-700"
-            href="#"
+            href="/page3"
             rel="noopener noreferrer"
             target="_blank"
           >
@@ -40,7 +40,7 @@
         <li class="pt-3">
           <a
             class="underline decoration-transparent underline-offset-4 transition hover:decoration-slate-700"
-            href="#"
+            href="/page3"
             rel="noopener noreferrer"
             target="_blank"
           >
@@ -50,7 +50,7 @@
         <li class="pt-3">
           <a
             class="underline decoration-transparent underline-offset-4 transition hover:decoration-slate-700"
-            href="#"
+            href="/page3"
             rel="noopener noreferrer"
             target="_blank"
           >
@@ -65,7 +65,7 @@
         <li class="pt-3">
           <a
             class="underline decoration-transparent underline-offset-4 transition hover:decoration-slate-700"
-            href="#"
+            href="/page3"
             rel="noopener noreferrer"
             target="_blank"
           >
@@ -75,7 +75,7 @@
         <li class="pt-3">
           <a
             class="underline decoration-transparent underline-offset-4 transition hover:decoration-slate-700"
-            href="#"
+            href="/page3"
             rel="noopener noreferrer"
             target="_blank"
           >
@@ -85,7 +85,7 @@
         <li class="pt-3">
           <a
             class="underline decoration-transparent underline-offset-4 transition hover:decoration-slate-700"
-            href="#"
+            href="/page3"
             rel="noopener noreferrer"
             target="_blank"
           >
@@ -95,7 +95,7 @@
         <li class="pt-3">
           <a
             class="underline decoration-transparent underline-offset-4 transition hover:decoration-slate-700"
-            href="#"
+            href="/page3"
             rel="noopener noreferrer"
             target="_blank"
           >
@@ -110,7 +110,7 @@
         <li class="pt-3">
           <a
             class="underline decoration-transparent underline-offset-4 transition hover:decoration-slate-700"
-            href="#"
+            href="https://www.google.com/aclk?sa=l&ai=DChcSEwi3zZ2c0-2FAxVmNK0GHY_KCNwYABAAGgJwdg&gclid=Cj0KCQjw0MexBhD3ARIsAEI3WHKsi5pVtj39InY5qq4bbGPDKE9auLrXkOviEF7YWMum7An0yRqpzCEaAnlVEALw_wcB&sig=AOD64_3R6A_-q_1qqkKuzc31s7YFPG2dDw&q&adurl&ved=2ahUKEwj27pec0-2FAxUcJzQIHRqEBqEQ0Qx6BAgPEAE"
             rel="noopener noreferrer"
             target="_blank"
           >
@@ -120,7 +120,7 @@
         <li class="pt-3">
           <a
             class="underline decoration-transparent underline-offset-4 transition hover:decoration-slate-700"
-            href="#"
+            href="/page3"
             rel="noopener noreferrer"
             target="_blank"
           >
@@ -130,7 +130,7 @@
         <li class="pt-3">
           <a
             class="underline decoration-transparent underline-offset-4 transition hover:decoration-slate-700"
-            href="#"
+            href=""
             rel="noopener noreferrer"
             target="_blank"
           >

@@ -4,23 +4,23 @@
 >
   <img
     alt="productivity"
-    class=" flex bg-center mb-10 h-24 w-full pr-16 pl-16 sm:mb-0 sm:h-80 "
+    class=" flex bg-center mb-10 h-24 w-full pr-16 pl-16 rounded-lg sm:rounded-br-[80px] sm:rounded-tl-[120px] sm:mb-0 sm:h-80 "
     src="/assets/workingPerson.jpg"
   />
   <div class="mr-4 w-full text-center sm:w-1/2 sm:text-left">
     <h2
       class="mb-4 text-3xl font-bold leading-tight dark:text-black-50 md:text-4xl"
     >
-      Trusted and secured
+      Trusted and secured 
     </h2>
     <p class="leading-relaxed text-black-700 dark:text-black-400">
-      Each transaction is guarded by advanced and certified security system.
+      Our campus system relies on 24/7 cyber security that monitors school infrastructure for potential attacks. We also work with ZiplyFiber to make sure you get the fastest internet speeds for your schooling needs.
     </p>
     <a
-      class="group relative mx-auto mt-8 inline-block font-semibold text-black-900 underline decoration-violet-300 decoration-2 underline-offset-8 transition hover:decoration-slate-700 dark:text-black-200 dark:hover:decoration-slate-200 sm:mx-0"
-      href="#"
+      class="group relative mx-auto mt-8 inline-block font-semibold text-black-900 underline decoration-dodger-blue-300 decoration-2 underline-offset-8 transition hover:decoration-slate-700 dark:text-black-200 dark:hover:decoration-slate-200 sm:mx-0"
+      href="/page4"
     >
-      View certifications
+      Review security policies
       
       <svg
         preserveAspectRatio="xMidYMid meet"
@@ -46,8 +46,8 @@
 >
   <img
     alt="Security"
-    class="mb-10 h-24 w-full pr-16 pl-16 sm:mb-0 sm:h-80"
-    src="/assets/Class.jpg"
+    class="flex bg-center mb-10 h-24 w-full pr-16 pl-16 rounded-lg sm:rounded-br-[80px] sm:rounded-tl-[120px] sm:mb-0 sm:h-80"
+    src="/assets/CodingBackground.jpg"
   />
   <div class="mr-4 w-full text-center sm:w-1/2 sm:text-left">
     <h2
@@ -56,14 +56,13 @@
       Multi layer security
     </h2>
     <p class="leading-relaxed text-black-700 dark:text-black-400">
-      Support fingerprint and face recognition for any transaction. More options
-      coming soon.
+      Our system utilizes multi-factor authentication, making our campus safe from login fraud.
     </p>
     <a
-      class="group relative mx-auto mt-8 inline-block font-semibold text-black-900 underline decoration-violet-300 decoration-2 underline-offset-8 transition hover:decoration-black-700 dark:text-black-200 dark:hover:decoration-slate-200 sm:mx-0"
-      href="#"
+      class="group relative mx-auto mt-8 inline-block font-semibold text-black-900 underline decoration-dodger-blue-300 decoration-2 underline-offset-8 transition hover:decoration-black-700 dark:text-black-200 dark:hover:decoration-slate-200 sm:mx-0"
+      href="/page4"
     >
-      Supported authentication
+      View authentication methods
       
       <svg
         preserveAspectRatio="xMidYMid meet"
@@ -89,8 +88,8 @@
 >
   <img
     alt="Security"
-    class="mb-10 h-10 w-full pr-16 pl-16 sm:mb-0 sm:h-80 sm:w-1/2 sm:pr-24 sm:pl-0 border-radius-rounded-xl"
-    src="/assets/CodingBackground.jpg"
+    class="flex bg-center mb-10 h-24 w-full pr-16 pl-16 rounded-lg sm:rounded-br-[80px] sm:rounded-tl-[120px] sm:mb-0 sm:h-80"
+    src="/assets/Class.jpg"
   />
   <div class="mr-4 w-full text-center sm:w-1/2 sm:text-left">
     <h2
@@ -99,9 +98,14 @@
       Meaningful insight
     </h2>
     <p class="leading-relaxed text-black-700 dark:text-black-400">
-      Visualize transactions with multiple chart option to get insight as you
-      need.
+      Ask our trained experts for advice on a variety of technological situations.
     </p>
+    <a class="group relative mx-auto mt-8 inline-block font-semibold text-black-900 underline decoration-dodger-blue-300 decoration-2 underline-offset-8 transition hover:decoration-black-700 dark:text-black-200 dark:hover:decoration-slate-200 sm:mx-0"
+      href="/page1"
+      >
+      Submit a Ticket
+    
+    </a>
   </div>
 </section>
 

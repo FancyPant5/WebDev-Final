@@ -7,7 +7,7 @@
   </h1>
   <div class="grid grid-cols-2 gap-4 md:grid-cols-4">
     <div
-    class="flex cursor-pointer flex-col items-center justify-start rounded-lg bg-slate-50 py-5 px-6 text-center text-slate-800 shadow-slate-200 transition hover:bg-white hover:shadow-lg hover:shadow-slate-200 dark:bg-slate-800 dark:text-slate-200 dark:shadow-slate-700 dark:hover:shadow-slate-800 hover:text-black"
+    class="flex cursor-pointer flex-col items-center justify-start rounded-lg bg-slate-50 py-5 px-6 text-center text-slate-800 shadow-slate-200 transition hover:bg-white hover:shadow-lg hover:shadow-slate-200 dark:bg-slate-800 dark:text-slate-200 dark:shadow-slate-700 dark:hover:shadow-slate-800 light:hover:text-slate-50 hover:text-black"
     >
       <svg
         preserveAspectRatio="xMidYMid meet"
